@@ -238,6 +238,7 @@ body{
     opacity: 0;
     animation-delay: calc(.5s * var(--cir));
 }
+
 .social-media i:hover{
     background: #fff;
     box-shadow: 0 0 5px #17a7ba,
